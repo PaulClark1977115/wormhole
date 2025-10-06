@@ -32,3 +32,4 @@ definitions found in this submodule are simply exported into the crate root.
 - `borsh`: Accounts and events relating to Wormhole SVM programs that follow
   Borsh serialization. This feature also supports deserializing data with
   discriminators.
+<!-- Auto-update: 2025-10-06T08:24:21.609657 -->
